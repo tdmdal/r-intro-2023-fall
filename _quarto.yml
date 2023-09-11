@@ -4,6 +4,8 @@ project:
   render: 
     - "*.qmd"
     - "!*.ipynb"
+  resources:
+    - "*.ipynb"
 
 website:
   title: "R Intro"
