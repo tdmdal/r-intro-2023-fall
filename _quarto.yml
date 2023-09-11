@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+  render: 
+    - "*.qmd"
+    - "!*.ipynb"
+
+website:
+  title: "R Intro"
+  search: false
+  navbar:
+    right:
+      - text: Home
+        icon: house-fill
+        file: index.qmd
+
+format:
+  html:
+    theme: 
+      - united
+      - custom.scss
+    fontsize: 1em
+    toc: true
+
+editor: visual
+

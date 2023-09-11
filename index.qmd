@@ -1,0 +1,59 @@
+---
+title: "R Intro (Fall 2023)"
+---
+
+R is an open-source programming language for statistical computing and graphics. R is extensible, and has a large collection of high-quality user contributed packages that provides easy tools for common data analysis tasks. This 4-session workshop will introduce you the fundamentals of R programming.
+
+------------------------------------------------------------------------
+
+### What To Prepare
+
+Please install [R](https://www.r-project.org/) and [RStudio Desktop](https://rstudio.com/products/rstudio/download/) before the first session.
+
+If you encounter technical difficulties installing the software, you can instead create a free [RStudio Cloud](https://rstudio.cloud/) account so you can run R in the cloud via your browser.
+
+An alternative to RStudio Cloud is the UofT JupyterHub/RStudio system. Go to its [home page](https://jupyter.utoronto.ca/hub/login), choose the *RStudio* option, and click *Log in to start*. You will need your UTORid to login.
+
+------------------------------------------------------------------------
+
+### Session 1, 2
+
+-   [Slides](r_intro_part1.pdf)
+-   Code
+    -   Weighted dice (We will code this one together.)
+    -   R basic data structures (R Notebook [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-intro-2023-fall/blob/master/docs/R_Basic_Data_Structures.ipynb))
+    -   R basic programming structures (R Notebook [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-intro-2023-fall/blob/master/docs/R_Basic_Programming_Structures.ipynb))
+-   Reading list
+    - [Your Textbook](https://www.statlearning.com/) (Section 2.3 Lab: Introduction to R)
+    -   [Hands-on Programming with R](https://rstudio-education.github.io/hopr/) (Chapter 1 to 3; Chapter 4 to 7, 9 and 11)
+
+### Session 3
+    
+|    Coming soon.
+    
+### Session 4
+    
+|    Coming soon.
+
+
+
+------------------------------------------------------------------------
+
+### Resources
+
+-   From Zero to Hero
+    -   Step 1: [Hands-on Programming with R](https://rstudio-education.github.io/hopr/) (beginner level; learn R programming basics.)
+    -   Step 2: [R for Data Science](https://r4ds.hadley.nz/) (intermediate level; learn to manipulate, analyze and visualize data using R's Tidyverse packages.)
+    -   Step 3: [Advanced R](https://adv-r.hadley.nz/) (advanced level; learn to master R.)
+-   Other Resources
+    -   [R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/) (from [software carpentry](https://software-carpentry.org/))
+    -   [Programming with R](https://swcarpentry.github.io/r-novice-inflammation/) (from [software carpentry](https://software-carpentry.org/))
+    -   [R Graphics Cookbook](https://r-graphics.org/)
+    -   [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
+    -   [The R Graph Gallery](https://www.r-graph-gallery.com/) (R graph samples with code)
+    -   [R Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/) (cheat sheets for many popular R packages)
+    -   [DoSStoolkit](https://dosstoolkit.com/) (self-paced interactive modules to help you learn and use R from Uoft Dept. of Statistical Science)
+
+------------------------------------------------------------------------
+
+Back to [TDMDAL Computing Page](https://tdmdal.github.io/)
