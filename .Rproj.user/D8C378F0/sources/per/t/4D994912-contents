@@ -20,7 +20,7 @@ An alternative to RStudio Cloud is the UofT JupyterHub/RStudio system. Go to its
 
 -   [Slides](r_intro_part1.pdf)
 -   Code
-    -   Weighted dice (We will code this one together.)
+    -   Weighted dice (We will code this one together; [play_ground.R](play_ground.R) & [dice.R](dice.R))
     -   R basic data structures (R Notebook [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-intro-2023-fall/blob/master/docs/R_Basic_Data_Structures.ipynb))
     -   R basic programming structures (R Notebook [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-intro-2023-fall/blob/master/docs/R_Basic_Programming_Structures.ipynb))
 -   Reading list
