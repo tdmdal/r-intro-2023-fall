@@ -27,15 +27,15 @@ An alternative to RStudio Cloud is the UofT JupyterHub/RStudio system. Go to its
     - [Your Textbook](https://www.statlearning.com/) (Section 2.3 Lab: Introduction to R)
     -   [Hands-on Programming with R](https://rstudio-education.github.io/hopr/) (Chapter 1 to 3; Chapter 4 to 7, 9 and 11)
 
-### Session 3
+### Session 3, 4
     
-|    Coming soon.
-    
-### Session 4
-    
-|    Coming soon.
-
-
+-   [Slides](r_intro_part2.pdf)
+-   Code
+    -   Linear Regression - Base R (R Notebook [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-intro-2023-fall/blob/master/docs/Housing_Prices_Regression_Analysis_(with_base_R).ipynb))
+    -   Linear Regression - Tidyverse & Others (R Notebook [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-intro-2023-fall/blob/master/docs/Housing_Prices_Regression_Analysis_(with_Tidyverse_and_Others).ipynb))
+-   Reading list
+    -   [Your Textbook](https://www.statlearning.com/) (Section 3.6 Lab: Linear Regression)
+    -   [R for Data Science](https://r4ds.had.co.nz/) (Chapter 5, 9 to 11, and 18)
 
 ------------------------------------------------------------------------
 
